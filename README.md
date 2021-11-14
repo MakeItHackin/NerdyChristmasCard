@@ -1,10 +1,12 @@
 # NerdyChristmasCard
 
-Watch the full video demo here: https://youtu.be/e6yfo_J4nOk  
+## Watch the full video demo here: https://youtu.be/e6yfo_J4nOk  
 
-Nerdy Christmas Cards available here:  
+## Nerdy Christmas Cards available here:  
 https://www.etsy.com/listing/1120178517/  
 https://www.tindie.com/products/25375/  
+
+SECRET VIDEO GAME IS ACTIVATED BY HOLDING DOWN THE BUTTON WHILE POWERING ON!
 
 #### What is it?
 This is an electronic Nerdy Christmas Card which features:  
